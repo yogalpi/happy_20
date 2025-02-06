@@ -1,31 +1,30 @@
 {
-  "greeting": "你好啊",
-  "name": "XX",
-  "greetingText": "很庆幸能在最美丽的年华遇见最美丽的你",
-  "wishText": "朱颜长似，头上花枝，岁岁年年。愿君青丝不老，岁岁皆欢。",
-  "imagePath": "img/lydia2.png",
-  "text1": "今天是你的生日啊!!! :D",
-  "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
-  "sendButtonLabel": "发送",
-  "text2": "我想给你一个惊喜",
-  "text3": "我认真的想了很久",
-  "text4": "我认识到，我想要做一些",
-  "text4Adjective": "特殊的事情",
-  "text5Entry": "因为，",
-  "text5Content": "你对于我来说，很特殊",
+  "greeting": "Hello!",
+  "name": "Yunita Widiastuti",
+  "greetingText": "I'm so lucky to meet the most beautiful you in the best years of my life.",
+  "wishText": "May your beauty remain, like flowers in your hair, year after year. May your youth never fade, and may happiness follow you always.",
+  "imagePath": "img/lydia.png",
+  "text1": "Today is your birthday!!! :D",
+  "textInChatBox": "Wishing you a very, very, very sincere Happy Birthday!!! So much happiness...",
+  "sendButtonLabel": "Send",
+  "text2": "I want to give you a surprise",
+  "text3": "I have thought about it for a long time",
+  "text4": "And I realized, I want to do something",
+  "text4Adjective": " special ",
+  "text5Entry": "Because,",
+  "text5Content": "You are very special to me",
   "smiley": ":)",
-  "bigTextPart1": "所",
-  "bigTextPart2": "以",
-  "wishHeading": "生日快乐啊!",
-  "outroText": "我希望你喜欢这个小小的惊喜!",
-  "replayText": "如果你喜欢的话，可以再看一次哦!或者……",
+  "bigTextPart1": "So",
+  "bigTextPart2": "",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "I hope you like this little surprise!",
+  "replayText": "If you liked it, you can watch it again! Or...",
   "outroSmiley": ":)",
   "music": "./music/bgMusic.mp3",
   "fonts": [
     {
       "name": "Ma Shan Zheng",
-      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+      "path": "https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
     }
   ]
 }
-
